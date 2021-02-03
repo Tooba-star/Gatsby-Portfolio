@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "title": "Portfolio",
+    "titleTemplate": "%s",
+    "description": "A starter to launch your blazing fast personal website and a blog, Made with ❤ by Tooba Anwer",
+    "siteUrl": "https://www.facebook.com/ToobayyyAnwer",
+    "image": "https://image.freepik.com/free-vector/portrait-beautiful-girl-with-tiara-her-head_1196-849.jpg",
+    "iconimage": "",
+    "twitterUsername": ""
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
